@@ -1,0 +1,21 @@
+.collapse{
+    margin-left: auto;
+}
+body{
+   
+    /* width: 1540px; */
+    background-image: url("resto2.jpg");
+    width: 100%;
+    height: 500px;
+    margin-top: 5px;
+    background-size:cover;
+    background-repeat: no-repeat;
+
+}
+.heading{
+    color: aliceblue;
+    background-color: lightblue;
+}
+.navbar{
+    margin-top: 0;
+}
